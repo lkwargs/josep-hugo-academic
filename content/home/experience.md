@@ -25,7 +25,7 @@ experience:
   - title: Algorithm Intern
     company: Beijing SenseTime Technology Development Co., Ltd
     company_url: 'https://www.sensetime.com/'
-    company_logo: https://static.sensetime.com/images/logo.png
+    company_logo: org-sensetime
     location: Beijing, China
     date_start: '2021-09-02'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Bachelor
     company: Chongqing University
     company_url: 'www.cqu.edu.cn'
-    company_logo: 
+    company_logo: org-cqu
     location: Chongqing, China
     date_start: '2018-09-01'
     date_end: '2022-6-1'
