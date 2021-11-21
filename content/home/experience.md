@@ -25,7 +25,7 @@ experience:
   - title: Algorithm Intern
     company: Beijing SenseTime Technology Development Co., Ltd
     company_url: 'https://www.sensetime.com/'
-    company_logo: 'https://static.sensetime.com/images/logo.png'
+    company_logo: https://static.sensetime.com/images/logo.png
     location: Beijing, China
     date_start: '2021-09-02'
     date_end: ''
