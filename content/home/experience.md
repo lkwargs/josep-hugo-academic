@@ -34,9 +34,9 @@ experience:
         
         * Game AI Development
         * Algorithm Design
-        * Performence test
+        * Performence Test
         
-  - title: Bachelor
+  - title: Bachelor of Computer Science
     company: Chongqing University
     company_url: 'www.cqu.edu.cn'
     company_logo: org-cqu

@@ -23,7 +23,7 @@ feature:
 - description: 80%
   icon: chart-line
   icon_pack: fas
-  name: Mathmatics
+  name: Mathematics
 - description: 85%
   icon: chess-knight
   icon_pack: fas
@@ -36,6 +36,10 @@ feature:
   icon: terminal
   icon_pack: fas
   name: Linux
+- description: 92%
+  icon: microphone
+  icon_pack: fas
+  name: Communication
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
