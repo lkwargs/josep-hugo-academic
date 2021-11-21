@@ -42,7 +42,7 @@ experience:
     company_logo: org-cqu
     location: Chongqing, China
     date_start: '2018-09-01'
-    date_end: '2022-6-1'
+    date_end: '2022-06-01'
     description: 
 
 design:
