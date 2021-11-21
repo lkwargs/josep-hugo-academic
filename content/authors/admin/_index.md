@@ -55,7 +55,7 @@ email: "clk@cqu.edu.cn"
 highlight_name: true
 ---
 
-Lekai Chen is an undergraduate of Chongqing University. His research interests include Reinforcement Learning, Game AI, Multi-agent Learning. He recently interned at Sensetime's Game AI department. He is now developing a {{< staticref "https://github.com/opendilab/DI-star" "newtab" >}}game AI of Starcraft II{{< /staticref >}}.
+Lekai Chen is an undergraduate of Chongqing University. His research interests include Reinforcement Learning, Game AI, Multi-agent Learning. He recently interned at Sensetime's Game AI department. He is now developing a {{< icon name="battle-net" pack=“fas” size=“2x”>}} {{< staticref "https://github.com/opendilab/DI-star" "newtab" >}}game AI of Starcraft II{{< /staticref >}}.
 
 He had used TD3 to solve a path planning problem for single-agent and multi-agents stochastic environments and won the first prize in the National Mathematical Modeling Competition.
 
